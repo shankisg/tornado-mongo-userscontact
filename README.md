@@ -14,4 +14,4 @@ Follow the link to install depending on your operating system. http://docs.mongo
 Install Motor
 pip install motor
 
-From terminal run <b>python route.py</b> and go to this url http://localhost:8888/
+From terminal run <b>python route.py</b> and go to this url <a href="http://localhost:8888/">http://localhost:8888/</a>
